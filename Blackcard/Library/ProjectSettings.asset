@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: 71b81e43ee037c4429f4182f4b228729
+  productGUID: 075fe20a92c18624799a1692df10602d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -603,8 +603,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: e8a6bb10-1c8f-489e-8156-6a4db9a1b99d
-  projectName: Blackcard
+  cloudProjectId: 65559c8f-565e-4f65-894f-5cefb0f14525
+  projectName: Blackcard (1)
   organizationId: mathieu-van-wunnik
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
